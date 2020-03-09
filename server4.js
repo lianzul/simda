@@ -89,8 +89,8 @@ app.get('/simda', function (req, res) {
 
     // config for your database
     var config = {
-        user: 'adminku',
-        password: 't3logaul##',
+        user: 'ad',
+        password: '',
         server: '223.25.101.77', 
         database: 'BELTIM2018v27',
 		options: {
